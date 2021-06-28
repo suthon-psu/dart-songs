@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Album A",
+        "songs": [
+            {
+                "name": "Song A",
+                "artist": "Artist A",
+                "duration": 180,
+                "genres": ["Disco", "Pop"]
+            },
+            {
+                "name": "Song B",
+                "artist": "Artist A",
+                "duration": 200,
+                "genres": ["Pop"]
+            },
+            {
+                "name": "Song C",
+                "artist": "Artist B",
+                "duration": 214,
+                "genres": ["Hard rock", "Funk"]
+            }
+        ]
+    },
+    {
+        "title": "Album B",
+        "songs": [
+            {
+                "name": "Song B",
+                "artist": "Artist A",
+                "duration": 200,
+                "genres": ["Pop"]
+            },
+            {
+                "name": "Song C",
+                "artist": "Artist C",
+                "duration": 219,
+                "genres": ["Hard rock", "Funk"]
+            },
+            {
+                "name": "Song D",
+                "artist": "Artist A",
+                "duration": 205,
+                "genres": ["Pop"]
+            }
+        ]
+    }
+]
